@@ -72,7 +72,11 @@ const Home: NextPage = () => {
                 Created by{' '}
                 <a href="https://ashisbored.github.io/" target="_blank" rel="noopener noreferrer" className="underline">
                     Ash
-                </a> with ❤️ and ✨
+                </a>
+                {' '}with{' '}
+                <a href="https://github.com/ashisbored/pronoun-badge-generator" target="_blank" rel="noopener noreferrer" className="underline">
+                    ❤️ and ✨
+                </a>
             </footer>
         </div>
     )
